@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB.R.Forms", "DB.R.Forms\DB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB.R.Core", "DB.R.Core\DB.R.Core.csproj", "{587B39B4-AF4B-4002-86A0-BB4A1F3DAAC0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resource", "Resource", "{C81C1277-0BEE-4518-B068-4F6874E2F52E}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\DB.IMS\packages\Microsoft.Data.ConnectionUI.Dialog.dll = ..\..\DB.IMS\packages\Microsoft.Data.ConnectionUI.Dialog.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
